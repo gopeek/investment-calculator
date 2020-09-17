@@ -10,8 +10,8 @@
 import math
 ```
 
-> Instructions:
+Instructions:
 
-> Run the python program
+> 1.Run the python program
 
-> Choose investment or bond (Follow instructions from the console then)
+> 2.Choose investment or bond (Follow instructions from the console then)

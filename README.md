@@ -9,3 +9,9 @@
 #using python library
 import math
 ```
+
+> Instructions:
+
+> Run the python program
+
+> Choose investment or bond (Follow instructions from the console then)
